@@ -44,7 +44,7 @@ To get started with this project, you can follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/Sephora-Data-Analysis.git
+   git clone https://github.com/nadlyaizat/Sephora_DataAnalysis.git
    ```
 
 2. Install the necessary dependencies and libraries required to run the Jupyter Notebooks.
