@@ -31,10 +31,10 @@ The project consists of four main analyses, each exploring different aspects of 
 
 ## Repository Contents
 
-- `notebook1.ipynb`: Jupyter Notebook file containing the analysis for the Sentiment of Customer Reviews.
-- `notebook2.ipynb`: Jupyter Notebook file containing the analysis for the Impact of Skin Tone and Skin Type.
-- `notebook3.ipynb`: Jupyter Notebook file containing the analysis for the Most Popular Brands.
-- `notebook4.ipynb`: Jupyter Notebook file containing the analysis for the Price vs Ratings.
+- `Sentiment of Customer Reviews.ipynb`: Jupyter Notebook file containing the analysis for the Sentiment of Customer Reviews.
+- `Impact on Product Ratings and Recommendations.ipynb`: Jupyter Notebook file containing the analysis for the Impact of Skin Tone and Skin Type.
+- `Most Popular Brands.ipynb`: Jupyter Notebook file containing the analysis for the Most Popular Brands.
+- `Price vs Ratings.ipynb`: Jupyter Notebook file containing the analysis for the Price vs Ratings.
 
 Feel free to explore each notebook to understand the steps taken and the results obtained in each analysis.
 
